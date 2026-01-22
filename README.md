@@ -24,7 +24,7 @@ The program places nails evenly around a circle, precomputes all possible string
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/String_Art_Generator.git
+git clone https://github.com/AdityaGoelyo/String_Art_Generator.git
 cd String_Art_Generator
 pip install -r requirements.txt
 ```
