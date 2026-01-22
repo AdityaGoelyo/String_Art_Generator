@@ -182,7 +182,7 @@ def main(
     )
 
 main(
-    image_path="/home/aesha/projects/string art generator/papa.jpeg",
+    image_path="your_path",
     thread_thickness=1,
     canvas_size=610,
     num_nails=200,
